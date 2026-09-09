@@ -8,91 +8,74 @@ const Events = () => {
   return (
     <section className="events-section" id="events">
       <div className="events-container">
-        <h1 className="events-title title">☔ April Events ☔</h1>
+        <h1 className="events-title title">☀️ September Events ☀️</h1>
         <div className="event-grid">
           <div className="event-card">
-            <h2 className="event-card-title title">👤 Pinoy Note: Shadow GBM 👤</h2>
+            <h2 className="event-card-title title">🕸️ Spider-Man: Bagong Araw | Fall GBM #1 🕸️</h2>
             <p className="event-card-description">
-              Beware of the Notebook ✍️ and the Shinigami who likes Apples… See the shadows of current board members…⚫️ try to 
-              find who is behind this in Death Note written with a Filipino twist. Are you ready to see the chaos of the 
-              notebook⁉️ Come out to FSA’s Shadow GBM with Executive Board election nominations will be right after!!
+              Spider-Man is swinging onto the big screen at FSA's first GBM of the semester! Come on, come on, come on out and watch the show!
             </p>
             <p className="event-description-separator">✧･ﾟ:*✧･ﾟ:*✧･ﾟ:*✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧</p>
             <div className="events-info">
-              <p>📅 Date: Wednesday, April 1st</p>
-              <p>📍 Location: CSE E222</p>
-              <p>🚪 Doors Open: 5:30 PM</p>
-              <p>🕑 Event Starts: 6:00 PM</p>
+              <p>📅 Date: Wednesday, September 9th</p>
+              <p>📍 Location: NPB 1001</p>
+              <p>🚪 Doors Open: 5:00 PM</p>
+              <p>🕑 Show Starts: 5:30 PM</p>
             </div>
-            <a
-              href="https://www.instagram.com/p/DWUg5vXEbJz/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.instagram.com/p/DcycKz2oGXi/" target="_blank" rel="noopener noreferrer">
               <button className="events-button">Instagram Post</button>
             </a>
           </div>
 
           <div className="event-card">
-            <h2 className="event-card-title title">✏️ E-Board Nominations ✏️</h2>
+            <h2 className="event-card-title title">🕷️ Tan-Cha Aftersocial | Fall GBM #1 🕷️</h2>
             <p className="event-card-description">
-              It’s that time of year! If you want to get involved on FSA’s executive board for the upcoming 2026-2027 school year, 
-              make sure to come to our Shadow GBM and stay afterwards for nominations!
+              It's a brand new day for FSA! The UFFSA Pamilya doesn't stop with just the GBM. Join us at Tan-Cha for an after social to sip boba like Spider-Man!
+              Don't forget to mention "FSA" or to show this graphic at the checkout so UFFSA gets your support!
             </p>
-            <p className="event-description-separator">⋆⁺｡˚⋆˙‧₊☽☾₊‧˙⋆˚｡⁺⋆◯⋆⁺｡˚⋆˙‧₊☽☾₊‧˙⋆˚｡⁺⋆</p>
+            <p className="event-description-separator">✧･ﾟ:*✧･ﾟ:*✧･ﾟ:*✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧</p>
             <div className="events-info">
-              <p>📅 Date: Wednesday, April 1st</p>
-              <p>📍 Location: CSE E222</p>
-              <p>🕑 Event Starts: After Shadow GBM</p>
+              <p>📅 Date: Wednesday, September 9th</p>
+              <p>📍 Location: 1111 W University Ave, Gainesville, FL</p>
+              <p>🕑 Time: 8:00 PM - 9:15 PM</p>
             </div>
-            <a
-              href="https://www.instagram.com/p/DWcEbRlEYJ5/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.instagram.com/p/DdCHsTTRoPX/" target="_blank" rel="noopener noreferrer">
               <button className="events-button">Instagram Post</button>
             </a>
           </div>
 
           <div className="event-card">
-            <h2 className="event-card-title title">🎤 WIT Karaoke Social 🎤</h2>
+            <h2 className="event-card-title title">🕸️ FSAvengers: Speed Friending 🕸️</h2>
             <p className="event-card-description">
-              Are YOU interested in being one of the interns behind uffsa.net? 🧑‍💻 Do YOU like to sing? Good news! Come out 
-              to our karaoke social to learn more about the program, meet current interns, and have a fun time! Even if you’re 
-              not looking to join the program next semester, we still encourage you all to sing your heart out with us!
+              Looking to meet new faces and make new friends?🫂 Possibly looking for a new big or little?😆 
+              If so, come show up to FSA’s upcoming Speed Friending event!! 🦸
             </p>
-            <p className="event-description-separator">-ˋˏ ༻❁༺༻❁༺༻❁༺༻❁༺༻❁༺ ˎˊ-</p>
+            <p className="event-description-separator">✧･ﾟ:*✧･ﾟ:*✧･ﾟ:*✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧</p>
             <div className="events-info">
-              <p>📅 Date: Thursday, April 2nd</p>
-              <p>📍 Location: Stage 7 Karaoke | 4110 SW 34th St</p>
-              <p>🕑 Time: 7:00 - 9:00 PM</p>
+              <p>📅 Date: Friday, September 11th</p>
+              <p>📍 Location: LIT 0217</p>
+              <p>🕑 Time: 4:00 PM - 6:00 PM</p>
             </div>
-            <a
-              href="https://www.instagram.com/p/DWl-PHCDUoD/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.instagram.com/p/DdCyFaNolUT/" target="_blank" rel="noopener noreferrer">
               <button className="events-button">Instagram Post</button>
             </a>
           </div>
 
           <div className="event-card">
-            <h2 className="event-card-title title">🎾 Sports Social 🎾</h2>
+            <h2 className="event-card-title title">🕸️ FSA Big/Little: Tomod-AKA Life 🕸️</h2>
             <p className="event-card-description">
-              Join EMPRESS and the Filipino Student Association for a fun afternoon of movement and wellness. Meet new people and 
-              support your well-being through exercise!
+              Embrace your inner Mii by applying for AKA 2026! AKA stands for Ate Kuya Ading (translates to big brother, big sister, and little sibling) and is 
+              FSA’s big/little program where you can make new friendships in our pamilya. Whether you’re going from Strangers to Acquaintances, or working up to 
+              be Ultra Friends, AKA can help you start living the dream with fellow members in FSA!
             </p>
-            <p className="event-description-separator">*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚*ੈ✩‧₊˚༺☆༻*ੈ✩‧₊˚</p>
+            <p className="event-description-separator">✧･ﾟ:*✧･ﾟ:*✧･ﾟ:*✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧</p>
             <div className="events-info">
-              <p>📅 Date: Sunday, April 5th</p>
-              <p>📍 Location: Westside Recreation Center Basketball Courts</p>
-              <p>🕑 Time: 2:00 - 4:00 PM</p>
+              <p>📅 Date: Sunday, September 27th | AKA Reveal</p>
+              <p>📍 Location and Time: Lake Wauburg after the FAHM Opening Ceremony</p>
+              <p>📅 Date: Monday, September 28th | Paint the Wall</p>
+              <p>📍 Location and Time: Norman Tunnel from 5:00 PM - 7:00 PM</p>
             </div>
-            <a
-              href="https://www.instagram.com/p/DWWdC5QEQDS/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.instagram.com/p/DdElYXZoM2D/" target="_blank" rel="noopener noreferrer">
               <button className="events-button">Instagram Post</button>
             </a>
           </div>

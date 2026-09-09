@@ -2,7 +2,6 @@ import React from 'react';
 import './MAFFIA.css';
 
 import MaffiaTitle from '../../../components/titles/MAFFIA Title/MaffiaTitle';
-import InstagramPost from "../../../components/InstaPosts/InstagramPost";
 
 const MAFFIA = () => {  
     return (<>
@@ -42,29 +41,16 @@ const MAFFIA = () => {
               </p>
             </div>
 
-            <div className='maffia-vid'>
-              <div className='vid-container'>
-                <iframe className='vid'
-                  width={1280}
-                  height={720}
-                  src="https://www.youtube.com/embed/JWAEah9sIZs?si=8VyaZZqF83EJIk8m"
-                  title="Dress to Impress | UFFSA MAFFIA 2024"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowFullScreen={true}
-                />
-              </div>
-            </div>
-
-            <figure className="maffia-insta">
-              <InstagramPost
-                url="https://www.instagram.com/p/DOewZTVjd9C/?utm_source=ig_web_copy_link&igsh=b3hieDF1N2EyeGJ6" 
-              />
-            </figure>
-
             <div className='apply-button__container'>
-              <button className="apply-button title">
-                 Apps Closed — Open in Spring !
-              </button>
+              <a
+                href='https://docs.google.com/forms/d/e/1FAIpQLScOUcHNs0dWtADfjGOkWWOFSx6ZU9M2n75KajWmy-FJs2dUFw/viewform'
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <button className="apply-button title">
+                  MAFFIA Application
+                </button>
+              </a>
             </div>
           </section>
 

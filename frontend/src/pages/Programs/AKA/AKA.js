@@ -9,17 +9,15 @@ const AKA = () => {
       <AKATitle color="white" />
 
       <div className='aka-description'>
-        <div className='aka-description__container'>
-          <b>Reverse Ate Kuya Ading</b> <i>(RAKA)</i> is FSA's Big/Little Program during the Spring semester!
-          <br /><br />
-          We encourage you to be as specific and descriptive as possible in your <a href="https://docs.google.com/forms/d/e/1FAIpQLSe7hxokHYmihDx8ALuuZZ8h1qV-__Ozdc6LTCgDJl2ggp1rUw/viewform">application</a> so we can create the best pamilya for you!
-          <br /><br />
+          <div className='aka-description__container'>
+            <b>Ate Kuya Ading</b> <i>(AKA)</i> is FSA's Big/Little Program during the Fall semester!
+            <br /><br />
+            We encourage you to be as specific and descriptive as possible in your application so we can create the best pamilya for you!
+            <br /><br />
 
-          <b>Deadline to submit: February 4, 2026</b>
-          <br /><br />
-          Once you submit your application, find out your pairing(s) after GBM 2 on February 16th! We hope to see you there!
-          <br /><br />
-          Check out this past AKA/RAKA video to find out what being a part of the pamilya feels like!
+            <b>Deadline to submit: September 18, 2026</b>
+            <br /><br />
+            Once you submit your application, find out your pairing(s) after FAHM Opening on September 27th! We hope to see you there!
         </div>
 
         <div className='aka-vid'>
@@ -36,7 +34,14 @@ const AKA = () => {
         </div>
 
         <div className='aka-button__container'>
-
+          <a href='https://docs.google.com/forms/d/e/1FAIpQLSeIfq-l3C5iTTsF62qSV9jkalcFw4O3AtDUYgtg_rUnxPvNQQ/viewform'
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <button className="aka-button title">
+              AKA Application
+            </button>
+          </a>
           <a href='https://docs.google.com/spreadsheets/d/1RwJQLhwU2FMW9KckC8LG8LCx2RZTU310eLROJ8Ox5os/edit?gid=1023977696#gid=1023977696' target="_blank" rel="noopener noreferrer">
             <button className="aka-button title">
               AKA Pairings

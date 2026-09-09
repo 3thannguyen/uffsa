@@ -3,6 +3,7 @@ import PillarHero from '../../../components/Pillars/PillarHero';
 import PillarDescription from '../../../components/Pillars/PillarDescription';
 import PillarSignatureEvents from '../../../components/Pillars/PillarSignatureEvents';
 import PillarRegularActivities from '../../../components/Pillars/PillarRegularActivities';
+import InstagramIcon from '@mui/icons-material/Instagram';
 
 import {
   Box,
@@ -51,6 +52,30 @@ const Philanthropy = () => {
         content="Thank you for your interest in joining University of Florida's Filipino Student Association's Community Service.
                 As a family-oriented organization, we believe it is important to give back to our community. There are many families and individuals who are in need; a little help from our pamilya (family) can make a big impact on their lives. Even though every little thing counts, we strive to do our best to provide the most diligent service. We hope to leave smiles on their faces and UFFSA in their hearts."
       />
+
+            <Box
+        sx={{
+          backgroundColor: 'var(--white)',
+          display: 'flex',
+          justifyContent: 'center',
+          px: 2,
+          pb: 8,
+        }}
+      >
+        <Button
+          component="a"
+          href="https://www.instagram.com/uffsaphilanthropy/"
+          target="_blank"
+          rel="noopener noreferrer"
+          variant="contained"
+          size="large"
+          startIcon={<InstagramIcon />}
+          sx={{ borderRadius: 999, px: 3 }}
+        >
+          Follow @uffsaphilanthropy
+        </Button>
+      </Box>
+
 
       {/* SIGNATURE EVENTS */}
       <PillarSignatureEvents>
