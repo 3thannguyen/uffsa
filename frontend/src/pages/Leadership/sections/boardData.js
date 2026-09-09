@@ -76,7 +76,7 @@ import Tyler from '../photos/tyler.jpg';
 
 import Athena from '../photos/athena.jpg';
 import Braylenn from '../photos/braylenn.jpg';
-import EmmaG from '../photos/emmag.jpg';
+import EmmaG from '../photos/emmag.jpeg';
 import EmmaS from '../photos/emmas.JPG';
 import Erin from '../photos/erin.jpg';
 import Gabbie from '../photos/gabbie.jpg';
@@ -87,11 +87,11 @@ import NateA from '../photos/natea.jpg';
 import NateL from '../photos/natel.jpg';
 import Nikita from '../photos/nikita.jpg';
 import Nikki from '../photos/nikki.jpg';
-import Reyhan from '../photos/reyhan.jpg';
+import Reyhan from '../photos/reyhan.jpeg';
 import Ronald from '../photos/ronald.jpg';
 import Samih from '../photos/samih.jpg';
 import Tori from '../photos/tori.jpg';
-import Tyson from '../photos/tyson.jpg';
+import Tyson from '../photos/tyson.JPG';
 
 
 
