@@ -77,7 +77,7 @@ import Tyler from '../photos/tyler.jpg';
 import Athena from '../photos/athena.jpg';
 import Braylenn from '../photos/braylenn.jpg';
 import EmmaG from '../photos/emmag.jpg';
-import EmmaS from '../photos/emmas.jpg';
+import EmmaS from '../photos/emmas.JPG';
 import Erin from '../photos/erin.jpg';
 import Gabbie from '../photos/gabbie.jpg';
 import Gabe from '../photos/gabe.jpg';
