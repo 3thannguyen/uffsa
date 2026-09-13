@@ -13,8 +13,8 @@ const About = () => {
           <iframe className='vid'
             width={1280}
             height={720}
-            src="https://www.youtube.com/embed/eFda4wkMEgw"
-            title="FSA Promo 2020"
+            src="https://www.youtube.com/embed/sqj_Q_xznE0?si=4Yz30SwmOzszqkNo"
+            title="FSA Promo Video 2026"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen={true}
           />

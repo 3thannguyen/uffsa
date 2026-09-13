@@ -1,37 +1,3 @@
-// ---------------------------------------------------------------------------
-// boardData.js
-// Location: frontend/src/pages/Leadership/sections/boardData.js
-//
-// Single source of truth for every board roster on the Leadership page.
-// To add next year's board: add photos, add imports, add a new exported array,
-// and render it from Leadership.js. Do not touch BoardSection.js.
-//
-// Member shape:
-//   {
-//     name:      'Full Name'                                  (required)
-//     role:      'VP of Whatever'                             (required)
-//     photo:     imported image                               (optional - falls back to default.png)
-//     instagram: 'https://www.instagram.com/handle/'          (optional - renders a non-link card if absent)
-//   }
-// ---------------------------------------------------------------------------
-
-
-// ===========================================================================
-// 2026-2027 PHOTOS  (put new files in frontend/src/pages/Leadership/photos/2026-2027/)
-// ===========================================================================
-// Filename rules, in order of how badly they will ruin your day:
-//   1. Extension must match the import EXACTLY. Windows and macOS do not care.
-//      Vercel's Linux builder does. `foo.JPG` imported as `foo.jpg` = failed build.
-//   2. All lowercase, no spaces, no parentheses. `img (1).jpg` will not resolve.
-//   3. Convert HEIC to JPG first. Webpack cannot bundle HEIC.
-//
-// import NewPresident from '../photos/2026-2027/first-last.jpg';
-// import NewVP        from '../photos/2026-2027/first-last.jpg';
-
-
-// ===========================================================================
-// 2025-2026 PHOTOS
-// ===========================================================================
 import Bekzod   from '../photos/bekzod.jpg';
 import Brian    from '../photos/brian.jpg';
 import Chadrick from '../photos/chadrick.jpg';
@@ -79,18 +45,18 @@ import Braylenn from '../photos/braylenn.jpg';
 import EmmaG from '../photos/emmag.jpeg';
 import EmmaS from '../photos/emmas.JPG';
 import Erin from '../photos/erin.jpg';
-import Gabbie from '../photos/gabbie.jpg';
+import Gabbie from '../photos/gabbie.png';
 import Gabe from '../photos/gabe.jpg';
-import Jeremiah from '..photos/jeremiah.jpg';
+import Jeremiah from '../photos/jeremiah.jpg';
 import Kirk from '../photos/kirk.jpg';
 import NateA from '../photos/natea.jpg';
-import NateL from '../photos/natel.jpg';
+import NateL from '../photos/natel.png';
 import Nikita from '../photos/nikita.jpg';
-import Nikki from '../photos/nikki.jpg';
+import Nikki from '../photos/nikki.png';
 import Reyhan from '../photos/reyhan.jpeg';
-import Ronald from '../photos/ronald.jpg';
+import Ronald from '../photos/ronald.png';
 import Samih from '../photos/samih.jpg';
-import Tori from '../photos/tori.jpg';
+import Tori from '../photos/tori.png';
 import Tyson from '../photos/tyson.JPG';
 
 

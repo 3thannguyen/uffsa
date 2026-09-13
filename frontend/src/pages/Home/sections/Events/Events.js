@@ -11,54 +11,46 @@ const Events = () => {
         <h1 className="events-title title">☀️ September Events ☀️</h1>
         <div className="event-grid">
           <div className="event-card">
-            <h2 className="event-card-title title">🕸️ Spider-Man: Bagong Araw | Fall GBM #1 🕸️</h2>
+            <h2 className="event-card-title title">📝 AKA Fall 2026 Pairing Applications 📝</h2>
             <p className="event-card-description">
-              Spider-Man is swinging onto the big screen at FSA's first GBM of the semester! Come on, come on, come on out and watch the show!
+              Embrace your inner Mii by applying for AKA 2026! AKA stands for Ate Kuya Ading (translates to big brother, big sister, and little sibling) and is 
+              FSA’s big/little program where you can make new friendships in our pamilya. Whether you’re going from Strangers to Acquaintances, or working up to 
+              be Ultra Friends, AKA can help you start living the dream with fellow members in FSA!
             </p>
             <p className="event-description-separator">✧･ﾟ:*✧･ﾟ:*✧･ﾟ:*✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧</p>
             <div className="events-info">
-              <p>📅 Date: Wednesday, September 9th</p>
-              <p>📍 Location: NPB 1001</p>
-              <p>🚪 Doors Open: 5:00 PM</p>
-              <p>🕑 Show Starts: 5:30 PM</p>
+              <p>📅 Due: Friday, September 18th</p>
+              <p>🕑 Time: 11:59 PM</p>
             </div>
-            <a href="https://www.instagram.com/p/DcycKz2oGXi/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/p/DdElYXZoM2D/" target="_blank" rel="noopener noreferrer">
               <button className="events-button">Instagram Post</button>
             </a>
           </div>
 
           <div className="event-card">
-            <h2 className="event-card-title title">🕷️ Tan-Cha Aftersocial | Fall GBM #1 🕷️</h2>
+            <h2 className="event-card-title title">📝 FSA Web Internship Applications 📝</h2>
             <p className="event-card-description">
-              It's a brand new day for FSA! The UFFSA Pamilya doesn't stop with just the GBM. Join us at Tan-Cha for an after social to sip boba like Spider-Man!
-              Don't forget to mention "FSA" or to show this graphic at the checkout so UFFSA gets your support!
+              Ready to take your web development skills to the next level? FSA is looking for a few talented individuals to join our web internship program!
             </p>
             <p className="event-description-separator">✧･ﾟ:*✧･ﾟ:*✧･ﾟ:*✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧</p>
             <div className="events-info">
-              <p>📅 Date: Wednesday, September 9th</p>
-              <p>📍 Location: 1111 W University Ave, Gainesville, FL</p>
-              <p>🕑 Time: 8:00 PM - 9:15 PM</p>
+              <p>📅 Due: Friday, September 25th</p>
+              <p>🕑 Time: 11:59 PM</p>
             </div>
-            <a href="https://www.instagram.com/p/DdCHsTTRoPX/" target="_blank" rel="noopener noreferrer">
-              <button className="events-button">Instagram Post</button>
-            </a>
           </div>
 
           <div className="event-card">
-            <h2 className="event-card-title title">🕸️ FSAvengers: Speed Friending 🕸️</h2>
+            <h2 className="event-card-title title">🍳 AASU x FSA Breakfast Brigade🍳</h2>
             <p className="event-card-description">
-              Looking to meet new faces and make new friends?🫂 Possibly looking for a new big or little?😆 
-              If so, come show up to FSA’s upcoming Speed Friending event!! 🦸
+              Join FSA and AASU in making breakfast for families at the Ronald McDonald House!
             </p>
             <p className="event-description-separator">✧･ﾟ:*✧･ﾟ:*✧･ﾟ:*✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧</p>
             <div className="events-info">
-              <p>📅 Date: Friday, September 11th</p>
-              <p>📍 Location: LIT 0217</p>
-              <p>🕑 Time: 4:00 PM - 6:00 PM</p>
+              <p>📅 Due: Saturday, September 26thth</p>
+              <p>📍 Location: 2121 SW 16th St, Gainesville, FL 32601</p>
+              <p>🕑 Event Starts: 7:00 AM</p>
+              <p>🕑 Event Ends: 9:00 AM</p>
             </div>
-            <a href="https://www.instagram.com/p/DdCyFaNolUT/" target="_blank" rel="noopener noreferrer">
-              <button className="events-button">Instagram Post</button>
-            </a>
           </div>
 
           <div className="event-card">
