@@ -28,7 +28,7 @@ const WebInterns = () => {
     <div className='web-interns-page'>
       <h1 className='web-interns-year-title title'>Web Team 2026&ndash;2027</h1>
 
-      <PersonGrid {...GRID}     id='web-interns' title='Web Master'  people={WEBMASTER_2026_2027} />
+      <PersonGrid {...GRID}     id='web-interns' title='Webmaster'  people={WEBMASTER_2026_2027} />
       <PersonGrid {...GRID_ALT}                  title='Team Leads'  people={TEAM_LEADS_2026_2027} />
       <PersonGrid {...GRID}                      title='Web Interns' people={INTERNS_2026_2027} />
 
@@ -36,7 +36,7 @@ const WebInterns = () => {
         Web Team 2025&ndash;2026
       </h1>
 
-      <PersonGrid {...GRID_ALT} title='Web Master'  people={WEBMASTER_2025_2026} />
+      <PersonGrid {...GRID_ALT} title='Webmaster'  people={WEBMASTER_2025_2026} />
       <PersonGrid {...GRID}     title='Team Leads'  people={TEAM_LEADS_2025_2026} />
       <PersonGrid {...GRID_ALT} title='Web Interns' people={INTERNS_2025_2026} />
 
