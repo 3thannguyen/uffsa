@@ -17,7 +17,7 @@ import Ronald  from './photos/2025-Ronald.JPG';
 import Vyan    from './photos/2025-Vyan.JPG';
 import Xenia   from './photos/2025-Xenia.JPG';
 // ---------------------------------------------------------------------------
-import Matt from './photos/2026-Matt.JPG';
+import Matt from './photos/2026-Matt.jpg';
 
 // ---------------------------------------------------------------------------
 export const DEFAULT_PHOTO = Default;
